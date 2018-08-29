@@ -4,7 +4,9 @@
 
 In August 2017 we reported that rail commuters "will pay an extra £100 on average for annual season tickets when price changes come into force in the new year [2018]". The story was based on analysis of 85 of the most commonly bought annual season tickets for commuters into London, Birmingham, Manchester, Liverpool, Leeds and Bristol, which found the average annual season ticket would rise from £2,740 to £2,840. It compares with an average rise in 2017 of £44 for the same tickets.
 
-This is the third story the data unit has done on rail fare rises. In January 2017 we published [Rail fares: Who are the season ticket winners and losers?](https://github.com/BBC-Data-Unit/rail-season-ticket-rises) and in September 2016 we published [Rail season tickets cost 10% of net pay](https://github.com/BBC-Data-Unit/rail-season-tickets)
+This is the third story the data unit has done on rail fare rises. In January 2017 we published [Rail fares: Who are the season ticket winners and losers?](https://github.com/BBC-Data-Unit/rail-season-ticket-rises) and in September 2016 we published [Rail season tickets cost 10% of net pay](https://github.com/BBC-Data-Unit/rail-season-tickets).
+
+You can [see all fares-related stories under the 'fares' tag](https://github.com/BBC-Data-Unit?utf8=%E2%9C%93&q=fares&type=&language=)
 
 ## Get the data
 
