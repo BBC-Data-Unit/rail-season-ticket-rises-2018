@@ -6,8 +6,6 @@ In August 2017 we reported that rail commuters "will pay an extra £100 on avera
 
 This is the third story the data unit has done on rail fare rises. In January 2017 we published [Rail fares: Who are the season ticket winners and losers?](https://github.com/BBC-Data-Unit/rail-season-ticket-rises) and in September 2016 we published [Rail season tickets cost 10% of net pay](https://github.com/BBC-Data-Unit/rail-season-tickets).
 
-You can [see all fares-related stories under the 'fares' tag](https://github.com/BBC-Data-Unit?utf8=%E2%9C%93&q=fares&type=&language=)
-
 ## Get the data
 
 * Google sheet: [RPI vs CPI rail fares](https://docs.google.com/spreadsheets/d/1UoqkvlkyEA9QdEXTJ4SMuHXT3aDvfpvlgi7LAvt2xSc/edit?usp=sharing)
@@ -24,3 +22,4 @@ You can [see all fares-related stories under the 'fares' tag](https://github.com
 
 * January 2017: [Rail fares: Who are the season ticket winners and losers?](https://github.com/BBC-Data-Unit/rail-season-ticket-rises) 
 * September 2016: [Rail season tickets cost 10% of net pay](https://github.com/BBC-Data-Unit/rail-season-tickets)
+* You can [see all fares-related stories under the 'fares' tag](https://github.com/BBC-Data-Unit?utf8=%E2%9C%93&q=fares&type=&language=)
